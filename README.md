@@ -5,5 +5,9 @@
 Para rodar esse projeto em sua máquina, por favor digite:
 
 ```
+
 npm install react
+
 ```
+
+Site para postar imagens para vincular o link em foruns que não permitem imagens. https://imgur.com
