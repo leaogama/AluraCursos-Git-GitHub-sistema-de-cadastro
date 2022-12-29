@@ -17,4 +17,4 @@ Paulo Silveira posta esta imagem: https://imgur.com/pSljha3
 
 Codigos longos podem ser postados em "gists" como este:
 
-https://gist.github.com/leaogama/70b6eefed09774e6e556dca89e5a41be.js
+https://gist.github.com/leaogama/70b6eefed09774e6e556dca89e5a41be
