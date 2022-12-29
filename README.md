@@ -14,3 +14,7 @@ Exemplo: https://imgur.com/a/8Xszy6F
 
 No vídeo da Alura: https://cursos.alura.com.br/extra/alura-mais/comunicando-erros-e-tirando-duvidas-em-foruns-c19 ,
 Paulo Silveira posta esta imagem: https://imgur.com/pSljha3
+
+Codigos longos podem ser postados em "gists" como este:
+
+<script src="https://gist.github.com/leaogama/70b6eefed09774e6e556dca89e5a41be.js"></script>
