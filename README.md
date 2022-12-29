@@ -11,3 +11,5 @@ npm install react
 Site para postar imagens para vincular o link em foruns que não permitem imagens. https://imgur.com
 
 Exemplo: https://imgur.com/a/8Xszy6F
+No vídeo da Alura: https://cursos.alura.com.br/extra/alura-mais/comunicando-erros-e-tirando-duvidas-em-foruns-c19 ,
+Paulo Silveira posta esta imagem: https://imgur.com/pSljha3
