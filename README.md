@@ -27,3 +27,4 @@ Para testar e compartilhar HTML,CSS e JS podemos usar o codepen.io como no exemp
 https://codepen.io/leaogama/pen/gOjrwLY
 
 :)
+<h1>Truque: segure a tecla do " . " para o github entrar no modo VSCode em nuvem</h1>.
