@@ -28,3 +28,5 @@ https://codepen.io/leaogama/pen/gOjrwLY
 
 :)
 <h1>Truque: segure a tecla do " . " para o github entrar no modo VSCode em nuvem</h1>.
+
+[Um guia prático para começar com git, sem complicações!](https://guilhermeonrails.github.io/manual-do-git-e-github/)
